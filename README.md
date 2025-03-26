@@ -4,7 +4,7 @@ Analyze your facial expressions with ✨Machine Learning✨. Uses a modified ver
 
 Includes the model weights and a simple FastAPI webapp for inference.
 
-<img src="./preview.gif"/>
+<img src="./preview.gif" height="300px"/>
 
 ## Development
 
